@@ -1,0 +1,5 @@
+%{
+  "css_parser": {:hex, :css_parser, "0.1.1", "cdb61b38c417fab7e119a17f5525ebf040373b1431225f779e49ae59efb0323b", [:mix], [], "hexpm", "6456f585b63f16058e6afb283fd5a4c6ff843e7c6fbea499601428d90af19da2"},
+  "decimal": {:hex, :decimal, "2.1.1", "5611dca5d4b2c3dd497dec8f68751f1f1a54755e8ed2a966c2633cf885973ad6", [:mix], [], "hexpm", "53cfe5f497ed0e7771ae1a475575603d77425099ba5faef9394932b35020ffcc"},
+  "ultraviolet": {:hex, :ultraviolet, "0.1.0", "50cb5cd255a6b61b9529573f2b9aac1aa19eb18a457c0f8950deeca048efb671", [:mix], [{:decimal, "~> 2.0", [hex: :decimal, repo: "hexpm", optional: false]}, {:jason, "~> 1.4", [hex: :jason, repo: "hexpm", optional: true]}], "hexpm", "af30bda2d0a0369a9365860d876df4aa442b2159202b2a9c69445962d0e4daf6"},
+}
